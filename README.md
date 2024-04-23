@@ -1,4 +1,4 @@
-#1. Wording of the task
+#  1. Wording of the task
 - Create a database for an e-shop of car parts linked to a system for a shop.
 Keep track of all the goods, in categories, keeping track of their status (in stock, on order,
 on the shop floor + which shops have how many pieces). Allow the creation of baskets for
