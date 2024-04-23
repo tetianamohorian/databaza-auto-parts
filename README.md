@@ -13,6 +13,6 @@ sorted alphabetically.
 less than 10 units of 10W-40 oil, sorted in descending order.
   - Write an SQL query that lists the categories and their average price for the item,
 that are currently in stock, sorted in ascending order.
-o MIN. 1X use JOIN, MIN. 1X use GROUP BY/ ORDER BY
+  - MIN. 1X use JOIN, MIN. 1X use GROUP BY/ ORDER BY
 
 
